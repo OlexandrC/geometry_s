@@ -1,5 +1,5 @@
 # geometry_s
- Geometrical compution
+ Geometrical computation
  
  Since year 2014 I was interesting to automate my design engeneer work. I have started to learn C# language for this purpose. Time to time I was solving some geometrical tasks. It was very interesting for me to solve this tasks by myself. After tens ready functions I deside to gather everything together to a one library geometry_s.dll. During next years I was using the library for pet projects and buisenes projects.   
  
